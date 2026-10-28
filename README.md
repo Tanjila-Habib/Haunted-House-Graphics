@@ -14,34 +14,31 @@ Switch scenes by pressing **1**, **2**, **3** or **4**.
 
 ## 🎮 Controls
 
-### Scene 1
-| Input | Action |
-|-------|--------|
-| Hover on bats | Change their direction |
-| Left click | Slow down clouds and arrow, remove blood stain |
-| Right click | Speed up clouds and arrow, add blood stain |
+### ⌨️ Keyboard
+| Key | Action |
+|-----|--------|
+| `1` `2` `3` `4` | Change scene |
 | `L` | Toggle lightning |
 | `H` | Car headlights on/off |
 | `B` | Stop/start bats |
-| `Z` | Change arrow direction |
-| `W` | Stop the arrow |
-| `R` | Rain and lightning (cracks the gravestone) |
+| `Z` | Change arrow direction (clockwise/anticlockwise) |
+| `W` | Stop the moving arrow |
 | `D` | Ring the doorbell |
 | `T` | Drive the car out of the scene |
-
-### Scene 2
-| Input | Action |
-|-------|--------|
-| Click mirror | Crack it and trigger the ghost (with sound) |
-| Click plates | Reverse plate motion |
-| Hover candles | Bigger, brighter flames |
-| Hover/click fireplace | Change flame colors / toggle on-off |
+| `R` | Rain on/off (with lightning and a cracked gravestone, or rain sound) |
 | `N` | Switch night/day |
-| `R` | Rain on/off (with sound) |
 | `C` | Freeze/resume candle flames |
 | `F` | Fireplace on/off |
 
-> ⚠️ **Warning:** Scene 2 has a jumpscare sound. Lower your volume first!
+### 🖱️ Mouse
+| Action | Result |
+|--------|--------|
+| Left click | Slow down clouds and arrow, remove blood stain |
+| Right click | Speed up clouds and arrow, add blood stain |
+| Hover | Change bats' direction, make candle flames bigger, change fireplace flame colors |
+| Click | Crack the mirror and show the ghost, reverse plate motion, toggle the fireplace |
+
+> ⚠️ **Warning:** There is a jumpscare sound, so lower your volume first!
 
 ## 🛠️ Built With
 -   C++ with OpenGL/GLUT
